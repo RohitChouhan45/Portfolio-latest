@@ -1,8 +1,45 @@
-# React + Vite
+# Rohit Chouhan – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my personal portfolio showcasing my projects, skills, and experience as a **Full Stack Developer and AI Enthusiast**.
 
-Currently, two official plugins are available:
+## About Me
+I am a final-year Computer Science student at **Arya College of Engineering & IT** with experience in building web applications and AI-powered tools.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My interests include:
+- Full Stack Development
+- Artificial Intelligence
+- Automation Systems
+- SaaS Products
+
+## Projects
+
+### MailBuddy
+**AI-Powered Digital Twin for Productivity Automation**
+
+An intelligent AI assistant that automates email communication and productivity tasks.
+
+Key features:
+- AI-powered email replies
+- Automated scheduling
+- Email summarization
+- Gmail and Calendar integration
+
+Tech stack: React, Node.js, PostgreSQL, AI APIs
+
+### TVTrakr
+A platform to track and manage TV shows and web series.
+
+Tech stack: React, Node.js, PostgreSQL, TMDb API
+
+### Amazarian
+An Amazon-style e-commerce UI project focused on frontend development.
+
+Tech stack: HTML, CSS, JavaScript
+
+## Tech Stack
+- React
+- Node.js
+- Express.js
+- PostgreSQL / MongoDB
+- Git & GitHub
+- REST APIs
