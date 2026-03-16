@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'MailBuddy',
       desc: 'AI-powered email assistant with smart replies, categorization, and robust workflow automation tailored for bulk email handling.',
-      image: '/src/assets/Screenshot 2026-01-22 110100.png', // Minimalist email mockup style
+      image: 'Portfolio-latest/src/assets/Screenshot 2026-01-22 110100.png', // Minimalist email mockup style
       tech: ['React', 'Node.js', 'OpenAI API', 'Tailwind'],
       github: 'https://github.com/hxrjt/MailBuddy',
       live: '#'
