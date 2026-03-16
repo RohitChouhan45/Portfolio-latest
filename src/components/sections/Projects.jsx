@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'MailBuddy',
       desc: 'AI-powered email assistant with smart replies, categorization, and robust workflow automation tailored for bulk email handling.',
-      image: '@/src/assets/Screenshot 2025-02-21 095053.png', // Minimalist email mockup style
+      image: '@/assets/Screenshot 2025-02-21 095053.png', // Minimalist email mockup style
       tech: ['React', 'Node.js', 'OpenAI API', 'Tailwind'],
       github: 'https://github.com/hxrjt/MailBuddy',
       live: '#'
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: 'Finance tracker',
       desc: 'Track your financial health with ease! This tracker provides a monthly overview, spending analysis, and key metrics like your largest expense.',
-      image: '@/src/assets/Screenshot 2025-02-21 095053.png', // Dynamic TV UI placeholder
+      image: '@/assets/Screenshot 2025-02-21 095053.png', // Dynamic TV UI placeholder
       tech: ['JavaScript', 'React', 'Tailwind CSS'],
       github: 'https://github.com/RohitChouhan45/Finance-Tracker',
       live: 'https://financetrackerbyrohit.netlify.app/'
@@ -23,7 +23,7 @@ const Projects = () => {
     {
       title: 'Book Basket',
       desc: 'Amazon-like e-commerce frontend UI featuring a highly responsive, modern shopping cart, product galleries, and dynamic search.',
-      image: '@/src/assets/Screenshot 2025-07-12 014721.png', // E-commerce store aesthetic
+      image: '@/assets/Screenshot 2025-07-12 014721.png', // E-commerce store aesthetic
       tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/bookify',
       live: 'https://librarybyrohit.netlify.app/'
