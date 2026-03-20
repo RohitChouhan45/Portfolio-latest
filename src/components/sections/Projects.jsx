@@ -21,11 +21,11 @@ const Projects = () => {
       live: 'https://financetrackerbyrohit.netlify.app/'
     },
     {
-      title: 'Book Basket',
-      desc: 'Amazon-like e-commerce frontend UI featuring a highly responsive, modern shopping cart, product galleries, and dynamic search.',
+      title: 'LocalBiz',
+      desc: 'LocalBiz Builder is a powerful, modern platform designed to help local businesses create and manage their professional websites instantly.',
       image: '@/assets/Screenshot 2025-07-12 014721.png', // E-commerce store aesthetic
       tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
-      github: 'https://github.com/RohitChouhan45/bookify',
+      github: 'https://github.com/RohitChouhan45/LocalBiz',
       live: 'https://librarybyrohit.netlify.app/'
     }
   ];
