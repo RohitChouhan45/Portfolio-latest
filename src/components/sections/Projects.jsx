@@ -39,9 +39,9 @@ const Projects = () => {
     {
       title: 'Portfolio',
       desc: 'my personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer and AI Enthusiast.',
-      image: '@/assets/Screenshot 2025-07-12 014721.png',
+      image: 'https://github.com/RohitChouhan45/Portfolio-latest/blob/main/src/assets/Screenshot%202026-03-21%20141352.png',
       tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
-      github: 'https://github.com/RohitChouhan45/LocalBiz',
+      github: 'https://github.com/RohitChouhan45/Portf',
       live: 'https://portfoliobyrohit.netlify.app/'
     }
   ];
