@@ -27,6 +27,22 @@ const Projects = () => {
       tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/LocalBiz',
       live: 'https://librarybyrohit.netlify.app/'
+    },
+    {
+      title: 'Nonogram',
+      desc: 'A fully interactive Nonogram game I built, featuring dynamic grid solving and intuitive gameplay. Players use numerical clues to uncover pixel images through logical deduction.',
+      image: '@/assets/Screenshot 2025-07-12 014721.png',
+      tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
+      github: 'https://github.com/RohitChouhan45/LocalBiz',
+      live: 'https://nonogrambyrohit.netlify.app/'
+    },
+    {
+      title: 'Portfolio',
+      desc: 'my personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer and AI Enthusiast.',
+      image: '@/assets/Screenshot 2025-07-12 014721.png',
+      tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
+      github: 'https://github.com/RohitChouhan45/LocalBiz',
+      live: 'https://portfoliobyrohit.netlify.app/'
     }
   ];
 
