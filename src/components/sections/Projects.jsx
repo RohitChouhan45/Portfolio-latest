@@ -33,7 +33,7 @@ const Projects = () => {
       desc: 'A fully interactive Nonogram game I built, featuring dynamic grid solving and intuitive gameplay. Players use numerical clues to uncover pixel images through logical deduction.',
       image: '@/assets/Screenshot 2025-07-12 014721.png',
       tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
-      github: 'https://github.com/RohitChouhan45/LocalBiz',
+      github: 'https://github.com/RohitChouhan45/Nonogram-Game',
       live: 'https://nonogrambyrohit.netlify.app/'
     },
     {
