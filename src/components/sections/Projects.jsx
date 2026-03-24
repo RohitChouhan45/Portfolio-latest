@@ -2,8 +2,13 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Github, ExternalLink } from 'lucide-react';
 
-import imgScreenshot1 from '../../assets/Screenshot 2025-02-21 095053.png';
-import imgScreenshot2 from '../../assets/Screenshot 2025-07-12 014721.png';
+import imgScreenshot1 from '../../assets/Screenshot1.png';
+import imgScreenshot2 from '../../assets/Screenshot2.png';
+import imgScreenshot3 from '../../assets/Screenshot3.png';
+import imgScreenshot4 from '../../assets/Screenshot4.png';
+import imgScreenshot5 from '../../assets/Screenshot5.png';
+import imgScreenshot6 from '../../assets/Screenshot6.png';
+
 
 const Projects = () => {
   const projects = [
@@ -18,7 +23,7 @@ const Projects = () => {
     {
       title: 'Finance tracker',
       desc: 'Track your financial health with ease! This tracker provides a monthly overview, spending analysis, and key metrics like your largest expense.',
-      image: imgScreenshot1, // Dynamic TV UI placeholder
+      image: imgScreenshot2, // Dynamic TV UI placeholder
       tech: ['JavaScript', 'React', 'Tailwind CSS'],
       github: 'https://github.com/RohitChouhan45/Finance-Tracker',
       live: 'https://financetrackerbyrohit.netlify.app/'
@@ -26,15 +31,23 @@ const Projects = () => {
     {
       title: 'LocalBiz',
       desc: 'LocalBiz Builder is a powerful, modern platform designed to help local businesses create and manage their professional websites instantly.',
-      image: imgScreenshot2, // E-commerce store aesthetic
+      image: imgScreenshot3, // E-commerce store aesthetic
       tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/LocalBiz',
       live: 'https://librarybyrohit.netlify.app/'
     },
     {
+      title: 'Book Basket',
+      desc: 'Amazon-like e-commerce frontend UI featuring a highly responsive, modern shopping cart, product galleries, and dynamic search.',
+      image: imgScreenshot4, // E-commerce store aesthetic
+      tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
+      github: 'https://github.com/RohitChouhan45/bookify',
+      live: 'https://librarybyrohit.netlify.app/'
+    },
+    {
       title: 'Nonogram',
       desc: 'A fully interactive Nonogram game I built, featuring dynamic grid solving and intuitive gameplay. Players use numerical clues to uncover pixel images through logical deduction.',
-      image: imgScreenshot2,
+      image: imgScreenshot5,
       tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/Nonogram-Game',
       live: 'https://nonogrambyrohit.netlify.app/'
@@ -42,7 +55,7 @@ const Projects = () => {
     {
       title: 'Portfolio',
       desc: 'my personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer and AI Enthusiast.',
-      image: 'https://raw.githubusercontent.com/RohitChouhan45/Portfolio-latest/main/src/assets/Screenshot%202026-03-21%20141352.png',
+      image: imgScreenshot6,
       tech: ['React', 'NextJS', 'Express.js', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/Portfolio-latest',
       live: 'https://portfoliobyrohit.netlify.app/'
