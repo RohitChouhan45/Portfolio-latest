@@ -34,7 +34,7 @@ const Projects = () => {
       image: imgScreenshot3, // E-commerce store aesthetic
       tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
       github: 'https://github.com/RohitChouhan45/LocalBiz',
-      live: 'https://librarybyrohit.netlify.app/'
+      live: 'https://localbizbyrohit.netlify.app/'
     },
     {
       title: 'Book Basket',
