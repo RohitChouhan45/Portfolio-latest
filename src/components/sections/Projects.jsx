@@ -8,6 +8,7 @@ import imgScreenshot3 from '../../assets/Screenshot3.png';
 import imgScreenshot4 from '../../assets/Screenshot4.png';
 import imgScreenshot5 from '../../assets/Screenshot5.png';
 import imgScreenshot6 from '../../assets/Screenshot6.png';
+import imgScreenshot7 from '../../assets/Screenshot7.png';
 
 
 const Projects = () => {
@@ -18,6 +19,14 @@ const Projects = () => {
       image: imgScreenshot1, // Minimalist email mockup style
       tech: ['React', 'Node.js', 'OpenAI API', 'Tailwind'],
       github: 'https://github.com/hxrjt/MailBuddy',
+      live: '#'
+    },
+    {
+      title: 'Lumora ai',
+      desc: 'A premium AI-powered photo enhancement platform built with Vite + React + TypeScript (frontend) and Express.js (backend).',
+      image: imgScreenshot7, // Minimalist email mockup style
+      tech: ['React', 'TypeScript', 'Node.js', 'Express.js', 'python', 'Tailwind'],
+      github: 'https://github.com/RohitChouhan45/Lumora-ai',
       live: '#'
     },
     {

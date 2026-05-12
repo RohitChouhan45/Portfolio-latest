@@ -49,7 +49,7 @@ const Hero = () => {
           <a href="#contact" className="px-8 py-4 rounded-full border border-glassBorder hover:bg-glass text-gray-200 transition-all duration-300 font-semibold w-full sm:w-auto glass-card flex items-center justify-center group hover:border-secondary/50">
             Contact Me
           </a>
-          <a href="src/assets/Resume.pdf" target="_blank" rel="noopener noreferrer" className="px-8 py-4 rounded-full border border-glassBorder hover:bg-glass text-gray-200 transition-all duration-300 font-semibold w-full sm:w-auto glass-card flex items-center justify-center gap-2 group hover:border-secondary/50">
+          <a href={Resume} target="_blank" rel="noopener noreferrer" className="px-8 py-4 rounded-full border border-glassBorder hover:bg-glass text-gray-200 transition-all duration-300 font-semibold w-full sm:w-auto glass-card flex items-center justify-center gap-2 group hover:border-secondary/50">
             <FileText size={18} className="text-secondary" />
             View Resume
           </a>
