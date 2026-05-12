@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight, Terminal, FileText } from 'lucide-react';
+import Resume from '../../assets/Resume.pdf';
 
 const Hero = () => {
   return (
