@@ -9,6 +9,7 @@ import imgScreenshot4 from '../../assets/Screenshot4.png';
 import imgScreenshot5 from '../../assets/Screenshot5.png';
 import imgScreenshot6 from '../../assets/Screenshot6.png';
 import imgScreenshot7 from '../../assets/Screenshot7.png';
+import imgScreenshot8 from '../../assets/Screenshot8.png';
 
 
 const Projects = () => {
@@ -30,14 +31,6 @@ const Projects = () => {
       live: '#'
     },
     {
-      title: 'Finance tracker',
-      desc: 'Track your financial health with ease! This tracker provides a monthly overview, spending analysis, and key metrics like your largest expense.',
-      image: imgScreenshot2, // Dynamic TV UI placeholder
-      tech: ['JavaScript', 'React', 'Tailwind CSS'],
-      github: 'https://github.com/RohitChouhan45/Finance-Tracker',
-      live: 'https://financetrackerbyrohit.netlify.app/'
-    },
-    {
       title: 'LocalBiz',
       desc: 'LocalBiz Builder is a powerful, modern platform designed to help local businesses create and manage their professional websites instantly.',
       image: imgScreenshot3, // E-commerce store aesthetic
@@ -45,6 +38,23 @@ const Projects = () => {
       github: 'https://github.com/RohitChouhan45/LocalBiz',
       live: 'https://librarybyrohit.netlify.app/'
     },
+    {
+      title: 'VibeVista',
+      desc: 'Built a modern interactive web application where users compare aesthetic scenic views through real-time voting mechanics.',
+      image: imgScreenshot8,
+      tech: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Redux', 'Tailwind CSS', 'Vite'],
+      github: 'https://github.com/RohitChouhan45/VibeVista',
+      live: '#'
+    },
+    {
+      title: 'Finance tracker',
+      desc: 'Track your financial health with ease! This tracker provides a monthly overview, spending analysis, and key metrics like your largest expense.',
+      image: imgScreenshot2, // Dynamic TV UI placeholder
+      tech: ['JavaScript', 'React', 'Tailwind CSS'],
+      github: 'https://github.com/RohitChouhan45/Finance-Tracker',
+      live: 'https://financetrackerbyrohit.netlify.app/'
+    },
+
     {
       title: 'Book Basket',
       desc: 'Amazon-like e-commerce frontend UI featuring a highly responsive, modern shopping cart, product galleries, and dynamic search.',

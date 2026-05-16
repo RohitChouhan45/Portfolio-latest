@@ -6,7 +6,7 @@ const About = () => {
   const cards = [
     {
       title: 'Education',
-      desc: 'Final-year IT student at Arya College of Engineering & IT.',
+      desc: 'Bachelor of Technology in Information Technology from Arya College of Engineering & I.T., Jaipur',
       icon: <GraduationCap size={24} className="text-primary" />
     },
     {
@@ -51,7 +51,7 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p className="text-lg text-gray-400 leading-relaxed mb-6">
-              I am a final-year Information Technology  student driven by a passion for building <strong className="text-white font-medium">intelligent software</strong> and <strong className="text-white font-medium">scalable web applications</strong>.
+              I’m a B.Tech graduate in Information Technology passionate about building <strong className="text-white font-medium">AI-powered applications, scalable full-stack systems</strong> and <strong className="text-white font-medium">impactful digital products</strong>.
             </p>
             <p className="text-lg text-gray-400 leading-relaxed mb-6">
               My technical journey involves navigating the robust ecosystems of <span className="text-primary font-medium">React</span> and <span className="text-secondary font-medium">Node.js</span>, while continuously exploring cutting-edge <span className="text-primary font-medium">AI integrations</span> and automation systems to streamline complex workflows.
